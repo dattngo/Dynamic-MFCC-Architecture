@@ -1,0 +1,6 @@
+#frame_num    sample_in_frame    com_2_ovl     alpha              fft_num      fft_stage_number     mel_num    cep_num   quarter          max_point_fft_core
+7'd24         11'd320            12'hf60       32'hbf7851ec       11'd512      4'd9                 6'd63      7'd31     32'h3e800000    16'd5150
+7'd24         11'd320            12'hf60       32'hbf7851ec       11'd512      4'd9                 6'd12      7'd22     32'h3e800000    16'd5150
+7'd24         11'd320            12'hf60       32'hbf7851ec       11'd512      4'd9                 6'd50      7'd21     32'h3e800000    16'd5150
+7'd16         11'd400            12'hf60       32'hbf7851ec       11'd512      4'd9                 6'd63      7'd31     32'h3e800000    16'd5150
+7'd49         11'd160            12'hfb0       32'hbf7851ec       11'd256      4'd8                 6'd30      7'd12     32'h3e800000    16'd2590

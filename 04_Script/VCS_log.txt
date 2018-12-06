@@ -1,0 +1,9 @@
+
+Error-[PRS_OPT] Illegal use of parse only options
+  There is no source file specified or the specified source files cannot be 
+  opened, hence VCS is running in UUM mode.
+  In UUM mode, the parse only option ' +v2k' can only be used with vlogan.
+  If VCS is intended to be run in non-UUM mode, Please check the specified 
+  source files; Otherwise, please pass the option to vlogan command-line or 
+  check 'vlogan -help' for additional details.
+
